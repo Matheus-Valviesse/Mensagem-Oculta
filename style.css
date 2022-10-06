@@ -27,7 +27,7 @@ main{
 }
 
 .input-entrada{
-    width: 30rem;
+    width: 35rem;
     height: 20rem;
     background-color: #daf4da13;
     border: solid 3px white;
@@ -36,7 +36,7 @@ main{
     outline: none;
 }
 .input-saida{
-    width: 30rem;
+    width: 35rem;
     height: 20rem;
     background-color: #bbc2bb13;
     border: solid 3px rgb(133, 132, 132);
